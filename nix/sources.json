@@ -1,0 +1,26 @@
+{
+    "haskell-ide-engine": {
+        "branch": "master",
+        "description": "The engine for haskell ide-integration. Not an IDE",
+        "homepage": "",
+        "owner": "haskell",
+        "repo": "haskell-ide-engine",
+        "rev": "a9005b2ba2050bdfdd4438f1d471a3f7985492cd",
+        "sha256": "1gi512fvwb0imwwhs8l1b8vci84r08bpcwachyxcdlpdlyzlzacz",
+        "type": "tarball",
+        "url": "https://github.com/haskell/haskell-ide-engine/archive/a9005b2ba2050bdfdd4438f1d471a3f7985492cd.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "haskell.nix": {
+        "branch": "master",
+        "description": "Alternative Haskell Infrastructure for Nixpkgs",
+        "homepage": "https://input-output-hk.github.io/haskell.nix",
+        "owner": "input-output-hk",
+        "repo": "haskell.nix",
+        "rev": "4dbc429b81c78c637c95c040693ce5fe0d640c28",
+        "sha256": "1lhn0cwwjrvh5cxwx288927kgjh0ilgpqf2cdqazp5g95iwp5plv",
+        "type": "tarball",
+        "url": "https://github.com/input-output-hk/haskell.nix/archive/4dbc429b81c78c637c95c040693ce5fe0d640c28.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}

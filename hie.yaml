@@ -1,0 +1,3 @@
+cradle:
+  cabal:
+    component: "exe:haskell-nix-c2hs"
